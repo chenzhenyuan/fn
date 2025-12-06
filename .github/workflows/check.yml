@@ -36,6 +36,6 @@ jobs:
         uses: GuillaumeFalourd/git-commit-push@v1
         with:
           commit_message: "Force the Update"
-          files: config.json README.md scrapy.log nodes/* nz/*
+          files: config.json README.md scrapy.log ns/*
           force: 1
           empty: 1
