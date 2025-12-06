@@ -1,6 +1,8 @@
 name: Regular Update
 
 on:
+  push:
+  workflow_dispatch:
   schedule:
     - cron: "0 */4 * * *" # 每4小时运行一次
 
