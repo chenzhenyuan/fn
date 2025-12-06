@@ -1,4 +1,4 @@
-name: Regular Update
+name: Scheduled Updates
 
 permissions:
   contents: write
