@@ -1,5 +1,8 @@
 name: Regular Update
 
+permissions:
+  contents: write
+
 on:
   push:
   workflow_dispatch:
