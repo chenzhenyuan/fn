@@ -65,7 +65,7 @@ DOWNLOADER_MIDDLEWARES = {
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     "NodeScrapy.pipelines.Pipeline": 300,
-    # "NodeScrapy.pipelines.GeoLocPipeline": 400,
+    "NodeScrapy.pipelines.GeoLocPipeline": 400,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
