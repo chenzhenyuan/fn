@@ -1,7 +1,7 @@
 {
   "yudou66": {
     "start_url": "https://www.yudou6677.top/",
-    "up_date": "2025-12-07",
+    "up_date": "2025-12-08",
     "selector": "a[rel='bookmark']",
     "pattern": "https?://yy.yudou66.top/[^<>\\r\\n]+",
     "password": "6677",
