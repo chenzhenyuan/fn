@@ -1,4 +1,4 @@
-# OpenNod
+# Go for Freedom
 
 数据爬虫，每4小时运行一次。
 
